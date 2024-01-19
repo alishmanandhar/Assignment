@@ -1,3 +1,5 @@
+import { Modal } from "@repo/assignment-ui/modal";
+
 export default function Page(): JSX.Element {
   return (
     <main>
